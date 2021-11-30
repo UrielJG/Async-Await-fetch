@@ -1,0 +1,27 @@
+[
+    {
+        "nombre" : "Uriel",
+        "apellido" : "Jaén",
+        "telefono" : 7711689894
+    },
+    {
+        "nombre" : "Karen",
+        "apellido" : "Duran",
+        "telefono" : 7711597535
+    },
+    {
+        "nombre" : "Magaly",
+        "apellido" : "Bautista",
+        "telefono" : 7718524569
+    },
+    {
+        "nombre" : "Juan Arturo",
+        "apellido" : "Paredes",
+        "telefono" : 7711479635
+    },
+    {
+        "nombre" : "Esperanza",
+        "apellido" : "Andriano",
+        "telefono" : 7713648756
+    }
+]
